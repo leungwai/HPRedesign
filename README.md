@@ -17,7 +17,7 @@ As HP has more products in its portfolio, including printers, desktops, laptops,
 Page is viewable and hosted via [GitHub Pages](https://leungwai.github.io/HPRedesign)
 
 ### Screenshot
-
+![Screenshot of the redesign HP webpage for laptops by leungwai](/screenshot.png)
 
 ### To Improve for V2
 - [ ] The current layout of HP's laptops and 2-in-1s page (as of Apr 2024) is much more organized, but still much more overwhelming that it needs to be. I think moving the specific SKUs of laptops to separate pages will serve to make the page less overwhelming for customers, who have to scroll all the way down just to buy a Chromebook.
