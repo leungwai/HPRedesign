@@ -1,8 +1,8 @@
 # 🎨 HPRedesign
 
-_\#HTML \#CSS \#Bootstrap_
-
 Project from Intro to Web Dev class that redesigns the HP webpage (c. 2021) that better organizes the layout of HP's laptops for customers. 
+
+_\#HTML \#CSS \#Bootstrap_
 
 ## Premise
 As HP has more products in its portfolio, including printers, desktops, laptops, and more, and within each product category there is a variety of products geared for different consumers, I thought it would be great to create a dedicated page for all of the HP PCs, and within that page, redesign the "Laptops" tab that highlights the then 4 main series of HP non-gaming laptops. 
